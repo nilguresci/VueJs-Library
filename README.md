@@ -25,5 +25,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Firebase configuration
 src/firebase/firebase.js
+
 Change with your own Firebase configuration
 See [Configuration Reference](https://firebase.google.com/docs/storage/web/start).
